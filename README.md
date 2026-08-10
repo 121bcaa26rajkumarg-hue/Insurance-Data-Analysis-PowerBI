@@ -264,15 +264,15 @@ The model enables dashboard values to respond dynamically to user selections.
 
 ### Overall Insurance Dashboard
 
-![Insurance Dashboard Overview](screenshots/dashboard_overview.png)
+![Insurance Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ### Filtered Policy Analysis
 
-![Filtered Policy Analysis](screenshots/filtered_policy_analysis.png)
+![Filtered Policy Analysis](Screenshots/filtered_policy_analysis.png)
 
 ### Interactive Dashboard Analysis
 
-![Interactive Dashboard](screenshots/interactive_dashboard.png)
+![Interactive Dashboard](Screenshots/interactive_dashboard.png)
 
 > Add the screenshots to a `screenshots` folder in this repository using the filenames above.
 
@@ -291,12 +291,9 @@ Insurance-Data-Analysis-PowerBI/
 │   └── insurance_data.csv
 │
 ├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── filtered_policy_analysis.png
-│   └── interactive_dashboard.png
-│
-└── documentation/
-    └── Project_Report.pdf
+    ├── dashboard_overview.png
+    ├── filtered_policy_analysis.png
+    └── interactive_dashboard.png
 ```
 
 ---
