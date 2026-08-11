@@ -274,7 +274,6 @@ The model enables dashboard values to respond dynamically to user selections.
 
 ![Interactive Dashboard](Screenshots/interactive_dashboard.png)
 
-> Add the screenshots to a `screenshots` folder in this repository using the filenames above.
 
 ---
 
